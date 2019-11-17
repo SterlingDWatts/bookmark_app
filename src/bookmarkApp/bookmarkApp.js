@@ -14,3 +14,5 @@ class BookmarkApp extends Component {
         );
     }
 }
+
+export default BookmarkApp;
